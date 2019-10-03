@@ -1,5 +1,33 @@
 # Teaching Notes
 
+# October 2nd, 2019
+
+## Order and Chaos
+
+I started the class by talking to the kids about our behaviour and expectations. Last week was pretty rough, and this was my attempt to get things back on track. I asked that we work together to make a good learning environment for everybody, and that we keep to one person talking at a time. This seemed to work and today went a lot better. I think I'll repeat this at the start of every class from now on.
+
+## Back to Basics
+I introduced a new section today called Back to Basics: quick lessons to get the kids up to speed on the general computing skills they will need to get started in programming.
+
+This week it was about using the keyboard to edit a document. I had noticed a lot of kids hammering away at the arrow buttons to try and get the cursor where they wanted it, or having trouble inserting a line or a tab in the right place.
+
+We talked about the Home, End and Delete keys, and how to use Ctrl-Home/Ctrl-End to move to the beginning/end of a document. There were a lot of "oohs" and "ahhs". Next week I'll show them about copying and pasting text.
+
+## Squeakernet FLP
+For our "Something Fun" segment, we looked at an [automated cat feeder project](https://github.com/buzzcola/squeakernet) that I built last year. Much like our earlier look at [shmup](https://github.com/kidscancode/gamedev/blob/master/shmup/shmup-24.py), most of the code was beyond the kids' level but we were still able to identify things that we recognized and learn about how the program worked. 
+
+This was wildly popular, which is predictable since it includes videos of cats.
+
+## Guessing Game
+Our main task for the class was to complete our number guessing game that we started in Week 2. We had just enough time to get the final features in.
+
+## Memorable Quotes
+  * *"I'm looking at the code and I can see how it's going to work without running it."*
+  * *"This is the coolest game I've ever made!"*
+  * *"Hah! it's five fifteen, I'm not finishing my program, see you later losers!"*
+
+# September 25th, 2019
+
 I haven't taught in a classroom before, or taught children. So I have a lot to learn here. Here are some notes about my experiences so far.
 
 ## Class Structure
