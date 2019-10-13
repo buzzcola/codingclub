@@ -17,11 +17,11 @@ We got through the next two programs in the textbook.
 
 [jokes.py](https://github.com/buzzcola/codingclub/blob/master/Week%2005/jokes.py) is a very simple program that tells a few jokes and just waits for the user to hit Enter to move to the next section. We learned some new tricks about string delimiters, escape characters, and the "end" optional parameter on the print() function.
 
-[Dragon Realm](https://github.com/buzzcola/codingclub/blob/master/Week%2005/dragonrealm.py) brought in a few of new ideas, the most important being how to define your own functions.
+[Dragon Realm](https://github.com/buzzcola/codingclub/blob/master/Week%2005/dragonrealm.py) taught us a few new ideas, the most important being how to define your own functions. I really tried to drive home how fundamental this is.
 
 We managed to spend some time with both of these programs before time ran out for the day.
 
-Next week I'd like to focus on writing some new code - we had great focus and made progress this week, but we only read and discussed code. Next is the point in the book that introduces debugging, which should be fun.
+Next week I'd like to focus on writing some new code - we had great focus and made progress this week, but we only read and discussed code. Next is the point in the book that introduces debugging, which should be fun. And I really feel like it's time we played with some native data structures like lists.
 
 ## Highlights
 
