@@ -1,5 +1,36 @@
 # Teaching Notes
 
+# October 9th, 2019
+
+## Back to Basics
+This week we learned about copying and pasting text, in our ongoing effort to get these kids up to speed on basic computing skills. We're now just about at a place where I can instruct the kids to grab a python file from the club github directory, copy it and paste it into a new file in IDLE... and in a few minutes, with a few desk visits, be up and running. Not too shabby.
+
+## Neural Networks and Genetic Algorithms
+We learned about the classic computer game "Snake" and how its simple rules and controls make it a great candidate for experimenting with machine learning.
+
+Then we watched [a video of a simple AI learning to play the game](https://www.youtube.com/watch?v=zIkBYwdkuTk). We talked (at a very high level) about neural networks and genetic algorithms, which the kids seemed to understand once we watched generation after generation of AI "Snakes" improve their strategy incrementally.
+
+We talked about how it would probably be easier to just write a program that plays Snake perfectly, but that this was an example of a different idea - a program that "learns" over time.
+
+## Joke Telling and Dragon Realm
+We got through the next two programs in the textbook.
+
+[jokes.py](https://github.com/buzzcola/codingclub/blob/master/Week%2005/jokes.py) is a very simple program that tells a few jokes and just waits for the user to hit Enter to move to the next section. We learned some new tricks about string delimiters, escape characters, and the "end" optional parameter on the print() function.
+
+[Dragon Realm](https://github.com/buzzcola/codingclub/blob/master/Week%2005/dragonrealm.py) brought in a few of new ideas, the most important being how to define your own functions.
+
+We managed to spend some time with both of these programs before time ran out for the day.
+
+Next week I'd like to focus on writing some new code - we had great focus and made progress this week, but we only read and discussed code. Next is the point in the book that introduces debugging, which should be fun.
+
+## Highlights
+
+I had some great questions and answers from the kids this week, indicating that they're really paying attention - 
+  * I asked - why do you think python allows string qualification using interchangable single or double quotes?
+  * The kids correctly guessed that it allowed you to make a string with a single or double quote inside.
+  * I was then asked what to do when you need to define a string that contains both. Excellent question! This let right into the next topic of escape characters.
+  * Once again a great question - how do you escape escape characters?
+
 # October 2nd, 2019
 
 ## Order and Chaos
