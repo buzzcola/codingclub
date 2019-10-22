@@ -59,6 +59,7 @@ Everything you might need to write these can be found in previous weeks' code, s
 *eggs*
 
 `bacon`
+
 `eggs`
 
 `What do you want to buy?`
@@ -66,7 +67,9 @@ Everything you might need to write these can be found in previous weeks' code, s
 *milk*
 
 `bacon`
+
 `eggs`
+
 `milk`
 
 `What do you want to buy?`
