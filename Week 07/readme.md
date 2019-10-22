@@ -10,23 +10,23 @@ Everything you might need to write these can be found in previous weeks' code, s
 
 `What is my name?`
 
-*Bruno*
+*bruno*
 
 `Nope!`
 
 `What is my name?`
 
-*Nerfron*
+*nerfron*
 
 `Nope!`
 
 `What is my name?`
 
-*Frank*
+*frank*
 
 `How did you know?! You win!`
 
-(hint: it doesn't have to be a random name.)
+(bonus: pick a random name instead of the same name every time.)
 
 # Part 2: The Dice Roller
 
@@ -38,8 +38,37 @@ Everything you might need to write these can be found in previous weeks' code, s
 
 *\<enter>*
 
-`You rolled a 3. Press Enter to roll again or "q" to quit...`
+`You rolled a 6. Press Enter to roll again or "q" to quit...`
 
 *q*
 
 `ya ok see you later!`
+
+(bonus: roll two dice instead of 1.)
+
+# Bonus: The Shopping List
+
+`What do you want to buy?`
+
+*bacon*
+
+`bacon
+
+What do you want to buy?`
+
+*eggs*
+
+`bacon
+eggs
+
+What do you want to buy?`
+
+*milk*
+
+`bacon
+eggs
+milk
+
+What do you want to buy?`
+
+(etc.)
