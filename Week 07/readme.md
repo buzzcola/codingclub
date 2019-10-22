@@ -52,23 +52,23 @@ Everything you might need to write these can be found in previous weeks' code, s
 
 *bacon*
 
-`bacon
+`bacon`
 
-What do you want to buy?`
+`What do you want to buy?`
 
 *eggs*
 
-`bacon
-eggs
+`bacon`
+`eggs`
 
-What do you want to buy?`
+`What do you want to buy?`
 
 *milk*
 
-`bacon
-eggs
-milk
+`bacon`
+`eggs`
+`milk`
 
-What do you want to buy?`
+`What do you want to buy?`
 
 (etc.)
