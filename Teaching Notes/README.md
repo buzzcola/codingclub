@@ -3,7 +3,7 @@
 # October 23rd, 2019
 
 ## Back to Basics
-Today we learned about files and folders, another element that is absent from mobile computing. We brought up the hard drive of our computer in Windows Explorer and poked around. We made some files and folders in our Documents folders and saw how they could next inside each other.
+Today we learned about files and folders, another element that is absent from mobile computing. We brought up the hard drive of our computer in Windows Explorer and poked around. We made some files and folders in our Documents folders and saw how they could nest inside each other.
 
 ## free-python-games
 
