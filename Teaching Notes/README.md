@@ -1,6 +1,50 @@
 # Teaching Notes
 
-# October 9th, 2019
+# October 23rd, 2019
+
+## Back to Basics
+Today we learned about files and folders, another element that is absent from mobile computing. We brought up the hard drive of our computer in Windows Explorer and poked around. We made some files and folders in our Documents folders and saw how they could next inside each other.
+
+## free-python-games
+
+We took a look at Grant Jenks' great repo [Free Python Games](http://www.grantjenks.com/docs/freegames/). He makes a basic drawing API that is perfect for simple games, and provides a dozen or so implementations of games like Snake and Tic-tac-toe that are surprisingly short and easy to read.
+
+We tried messing around with the source code for Snake to see if we could get double the length for every apple eaten. Instead the snake started growing out of control, which was also fun.
+
+## Group Work!
+
+After being defeated last week I resolved that these kids were going to write some more code. On the advice of some of my teacher friends I broke them into groups of two and three and gave them an assignment.
+
+The content for week 7 was not a program, but a program output. The kids would have to read the output of that game and figure out how a program like that would work, then write it.
+
+I kept the programs very simple, and used concepts we learned in past weeks. I encouraged the kids to look in the past weeks code from the club repo - copy/paste was completely allowed.
+
+The results were excellent. Although I said it wasn't a competition, it quickly turned into one, and all the groups completed at least one program, some two. It was a challenge for everybody, but I think they gained some confidence by the time we were done. Writing your own program from scratch and watching it run is a great feeling!
+
+The kids asked if we could do this again next week, and I think it's a great way to go out for the last lesson.
+
+# October 15th, 2019
+
+## Back to Basics
+This week's Back to Basics was window management. A lot of kids have grown up on tablets and phones, so the basic concepts of opening and arranging windows, minimizing and restoring, are new ideas for some. Sure enough, there were a lot of surprised comments as some of the kids learned for the first time where that window "goes" when you minimize it.
+
+## repl.it
+
+For "Something Fun" we took a look at https://repl.it, a site where you can code in python (and other languages) right in your browser. We were able to connect it to our coding club git repo and run some of the games from earlier weeks. Cool!
+
+## Lists and For Loops
+
+Last week was great but we were mostly reading and explaining code, and I wanted this week to be mostly *writing* code. This did no go well.
+
+We introducted the idea of a List in python and used the REPL to create lists and add items to them. Wrangling the room through this exercise took up a big part of the class and I wasn't able to get to For loops. We'll have to try a different approach next time.
+
+## hangman.py
+
+I put together another sample game that makes use of the things we've learned so far, and the kids had fun playing hangman. We had a good chat reading over the code - they thought it was pretty cool that my python script reached out to a list of 10,000 common words from some git repo in order to get the secret word.
+
+Next week I'm trying a group exercise as a way to get these kids writing some code.
+
+# October 8th, 2019
 
 ## Back to Basics
 This week we learned about copying and pasting text, in our ongoing effort to get these kids up to speed on basic computing skills. We're now just about at a place where I can instruct the kids to grab a python file from the club github directory, copy it and paste it into a new file in IDLE... and in a few minutes, with a few desk visits, be up and running. Not too shabby.
@@ -31,7 +75,7 @@ I had some great questions and answers from the kids this week, indicating that 
   * I was then asked what to do when you need to define a string that contains both. Excellent question! This let right into the next topic of escape characters.
   * Once again a great question - how do you escape escape characters?
 
-# October 2nd, 2019
+# October 1st, 2019
 
 ## Order and Chaos
 
