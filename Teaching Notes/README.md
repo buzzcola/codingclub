@@ -1,5 +1,30 @@
 # Teaching Notes
 
+# October 30th, 2019
+
+## Back to Basics
+I've exhausted all of the ideas I had for the Back to Basics section, so today we did a Q&A. I was wondering if the kids were aware of any blind spots in their learning - terms or ideas that they were aware of but didn't understand, and so on. Most of the questions were about video games. How do real games get made? Can one person make a "real" game? We talked about "triple A" studio games and the hundreds of different people and roles that contribute to them, and the rise of indie games and people like Markus Persson, a.k.a. Notch, who single-handedly developed Minecraft.
+
+## Something Fun: Secret Codes
+We talked about the idea of using a code to send and receive secret messages, and that computers are really good for this. I introduced the idea of a substitution cypher and we played with a python impelmentation of ROT13. Then we talked about much more powerful codes, and a quick bit about the history of signals intelligence, the Enigma machine, and modern government agencies like the CSE. In introduced the PGP project which is real encryption you can use that even governments have a hard time cracking.
+
+## Coding Time! Implementing functions, debugging
+I tried a new angle in getting the kids to write code. Coding from scratch in teams was pretty successful last week. This time I had them work singly on a partially completed program for a calculator. The body of the program was there, but there were three missing methods to do addition, subtraction and multiplication.
+
+A couple of kids were able to complete this pretty quickly. Some read back through past weeks and were able to figure out what declaring a function looked like. Some were pretty lost and needed help to complete it.
+
+Once we had all of our code created, we ran our programs and found a bug! Something was going wrong. The problem was that our program wasn't converting user input from text into a numeric type. A couple of the kids figured this out early, but I asked them to keep quiet.
+
+We investigated this bug by using the IDLE debugger. This was our first look at a tool of this kind, and we talked for a minute about how programmers, like carpenters, can make their own tools.
+
+By stepping through the program and examining the state of variables, we were able to observe the bug in action and then implement.
+
+## Finishing Up
+
+With a bit of time left at the end, I thanked the kids for taking part in the class and gave them some advice on how to keep learning coding. The kids said some really nice things about the class and how much they enjoyed it, which was pretty thrilling for me.
+
+As we approach the next round of coding club in January, I'll start making a to-do list of things to keep and things to improve on. This was a great experience and I'm looking forward to the next one!
+
 # October 23rd, 2019
 
 ## Back to Basics
