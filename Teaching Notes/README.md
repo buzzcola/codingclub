@@ -1,5 +1,14 @@
 # Teaching Notes
 
+# January 14th, 2020
+Time for coding club round 2! I've just completed the second class with a new batch of kids.
+
+We've got two repeaters who signed up again - this is a good sign, right? I'm covering mostly the same material but they seem to be enjoying themselves anyway.
+
+The class is bigger this time. The capacity is technically eight, but we had many more on the waiting list, and some of those showed up on the first day. By grabbing some chromebooks from the librarian we've been able to accomodate eleven kids. Surprisingly it hasn't been much more chaotic than last time.
+
+My big goal for this time around is to have the children write more code. Last round I gave them some direct coding assignments in the last two classes, and I was disappointed how little they were able to do on their own. Looking back, I spent most of the eight weeks talking and explaining to them, and having us read code together. I'd like to see if they learn faster when we all write code together, every class. I think there's a danger that they'll just copy whatever code I put in front of them without really parsing it, but it still might be a more effective method than anything else ([Zed Shaw seems to think so.](https://learnpythonthehardway.org/python3/intro.html))
+
 # October 30th, 2019
 
 ## Back to Basics
