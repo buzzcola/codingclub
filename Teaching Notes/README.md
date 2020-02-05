@@ -1,5 +1,30 @@
 # Teaching Notes
 
+# February 4th, 2020
+Week four complete. I introduced a new segment to the class today called You Write It. I run a program and show the class the *output*, and they have to write the code to make that program.
+
+This is an exercise I tried out in weeks 7 and 8 during the last round of Coding Club, and I found the students were far less prepared than I thought to actually write code on a blank screen, even with access to all of the resources and code we'd already worked with.
+
+So I'm bringing it into the class much earlier to get them started. The output of today's program looked like this (output from three runs.)
+
+> What is your name? Simon
+> 
+> Hello, Simon.
+
+> What is your name? Dinesh
+>
+> Hello, Dinesh.
+
+> What is your name? James
+>
+> You stink.
+
+I talked the kids through the ideas they would have to think about this and heavily accentuated the key words like *input*, *print*, *if* and *else*, hoping to jog their memories.
+
+They did pretty well! Two children had a working program within about five minutes. I wrote out some pseudocode on the projector and progressively filled in more clues until everybody had it.
+
+I'm definitely going to make You Write It a feature we do every week.
+
 # January 14th, 2020
 Time for coding club round 2! I've just completed the second class with a new batch of kids.
 
