@@ -15,6 +15,7 @@ while not win:
 
     # get the guess and convert it from a string to an integer (whole number) using the int() function.
     guess = int(input('What is your guess?'))
+    guesses = guesses + 1
 
     # let the user know if they won or not.
     if guess == number:
@@ -23,18 +24,4 @@ while not win:
         print("Nope. Try again.")
 
 
-print("You win!")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print("You win! It only took you " + str(guesses) + " guesses.")
