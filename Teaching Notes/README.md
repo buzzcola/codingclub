@@ -1,5 +1,32 @@
 # Teaching Notes
 
+# March 10th, 2020
+
+Just completed week eight, the end of the second session. I think we were really able to improve the course this time around and I look forward to continuing that.
+
+## Kids Write Code Every Class
+
+Having the kids do _anything_ themselves means committing a significant portion of the class time. Most of them are slow typers, and they get hung up on simple issues so they require constant attention to keep them moving. It asks more of the kids in terms of effort and focus, something not all of them are in the mood for after school. Still, my resolution to have them write code every day worked out really well, especially towards the later classes. They left the session with far more personally accomplished than in the last one.
+
+Most classes, my volunteer assistant and I were able to get the class through an exercise so that everybody had a working program by the end. I wasn't sure that kids these days would find the same satisfaction in simple text programs that I did back in the day, but they did. They really enjoyed running their programs and watching them work, messing around with them and seeing what happened. It brings back memories of all the silly things I experimented with too - printing rude things to the screen, trying to make the biggest output or the largest number and seeing where it breaks.
+
+Week eight was the most fun class in a session with quite a few highlights. Just like last session, we talked about secret codes (which sounds way more fun than cryptography,) and a couple of children were really drawn in by this subject.
+
+## Hardcore Computer Science
+
+Then we learned about recursion by writing a naive fibonacci implementation together. This was definitely more advanced than I could have done in the last session, and still I was probably pushing it a bit, but the kids already knew about the Fibonacci sequence from school so that was helpful. I introduced functions several classes earlier this time and I've been really hammering on those, so the basic understanding was out of the way.
+
+We calculated some fibonacci numbers and, true to form, several kids punched in big numbers to see what happened. What happened was that the program froze as a massive number of calculations ticked away in the background, and I used this as an entrée to algorihmic complexity and optimization. Computers are crazy fast kids, but you can trick them into being slow really easily. :) Without explaining in detail, I optimized the function using memoization and had it quickly calculate the one millionth fibonacci number. As the digits rushed by on the screen I got all the oohs and ahhs I was hoping for.
+
+## Notes for Next Time
+
+  * Code every class is a good strategy. Let's stick with it.
+  * Introduce functions even earlier. Bring out the "function as an I/O machine" slide as soon as possible, that clicked.
+  * If I do Github again for the "something fun" section, wait until much later in the session. Kids either didn't see the appeal or didn't care.
+  * Think of something better for the kids to do with lists. They should be introduced, I think, but I haven't been able to find a good simple application other than fiddling with them in the REPL.
+  * Be prepared with resources and things they can do at home and next steps after the session. A bunch of kids and parents asked me about this and I didn't have much to offer them.
+
+
 # February 4th, 2020
 Week four complete. I introduced a new segment to the class today called You Write It. I run a program and show the class the *output*, and they have to write the code to make that program.
 
