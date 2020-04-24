@@ -2,7 +2,7 @@
 
 Welcome to the official Coding Club II repo! You can browse the files in this repository to get the content we work on in class.
 
-The fall coding club is finished, but don't worry - we'll be back in January for another go!
+We've had two great sessions of Coding Club so far. When the library opens again we'll fire up another one.
 
 ## Curriculum
 
